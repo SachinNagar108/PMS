@@ -1,5 +1,4 @@
 # 🏦 Banking System Project 
-Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data. 
 1. **Clone the Repository**: 
    ```shell
    git clone https://github.com/YourUsername/YourBankingSystemRepo.git
